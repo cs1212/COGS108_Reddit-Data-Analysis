@@ -1,9 +1,7 @@
-This is your group repo for your final project for COGS108.
+# About the Project
+When should I make a reddit post so that I can maximize upvotes and comments?
 
-This repository is private, and is only visible to the course instructors and your group mates; it is not visible to anyone else.
+This project aims to solve this question by taking a dive into reddit post data for r/funny, one of the largest subreddits. Our report is located under [FinalProject.ipynb](https://github.com/cs1212/COGS108_Reddit-Data-Analysis/blob/master/FinalProject.ipynb)
 
-This repository will be frozen on the due date: 11:59pm on Tuesday, June 13th. No further changes can be made after that time.
-
-Your final project will be graded based solely on a project notebook.
-
-Make sure you have a notebook called 'FinalProject.ipynb' present in this repository by the due date.
+# About the Dataset
+Our data comes from r/funny and we wrote a [script](https://github.com/cs1212/COGS108_Reddit-Data-Analysis/blob/master/Reddit%20Scraping.ipynb) to automatically collect data on all posts made over the course of 24hrs. We collected data for all 7 days.
